@@ -1,0 +1,6 @@
+Machine learning is a branch of artificial intelligence.
+It allows computers to learn patterns from data.
+Supervised learning uses labelled training data.
+Unsupervised learning finds patterns in unlabelled data.
+Common machine learning algorithms include
+Linear Regression, Decision Tree and Random Forest.

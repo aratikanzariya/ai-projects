@@ -1,0 +1,5 @@
+Python is a high-level programming language.
+Python has a simple and readable syntax.
+Python is widely used in data science,
+web development, automation and artificial intelligence.
+Python supports libraries such as NumPy and Pandas.
