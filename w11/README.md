@@ -1,0 +1,1 @@
+![SMS Spam Prediction](images/prediction.jpeg)
