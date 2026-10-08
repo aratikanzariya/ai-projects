@@ -44,6 +44,9 @@ def predict(data: MessageRequest):
 
     prediction = model.predict(message_vector)[0]
 
+    print("Message:", message)
+    print("Prediction:", prediction)
+
     if prediction == 1:
         result = "Spam"
     else:
