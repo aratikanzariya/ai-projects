@@ -1,6 +1,0 @@
-numpy
-pandas 
-pickle
-os
-SentenceTransformer
-genai
