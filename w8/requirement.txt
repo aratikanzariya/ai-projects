@@ -1,5 +1,5 @@
 streamlit
-requests
-scikit-learn
-pandas
+keras
+tensorflow
 numpy
+pillow
