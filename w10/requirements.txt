@@ -1,3 +1,4 @@
+scikit-learn
 streamlit
 python-dotenv
 google-genai
